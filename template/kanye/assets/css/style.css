@@ -132,8 +132,8 @@ Primary use:    pxdraft
   color: #fff;
   border-color: #2563EB; }
   .px-btn-primary:hover {
-    background-color: #000000;
-    border-color: #000000;
+    background-color: #2563EB;
+    border-color: #ffffff;
     color: #fff; }
 
 .bg-gray {
